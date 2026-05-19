@@ -1,0 +1,26 @@
+{
+  "name": "@versemate/visuals",
+  "version": "0.1.0",
+  "description": "Versemate per-book visual aids registry — BibleProject Read Scripture posters, BibleProject overview videos, Precept Austin chapter charts, Insight for Living structural charts, and Versemate originals. Shared by verse-mate-web and verse-mate-mobile.",
+  "type": "module",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.ts",
+      "default": "./src/index.ts"
+    },
+    "./types": {
+      "types": "./src/types.ts",
+      "default": "./src/types.ts"
+    },
+    "./registry": {
+      "types": "./src/registry.ts",
+      "default": "./src/registry.ts"
+    }
+  },
+  "files": [
+    "src"
+  ],
+  "private": true
+}
