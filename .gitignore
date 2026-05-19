@@ -1,0 +1,26 @@
+# Node
+node_modules/
+*.log
+npm-debug.log*
+
+# Build / dist (this package ships TS source — no dist dir expected)
+dist/
+build/
+*.tsbuildinfo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/*
+!.vscode/settings.json.example
+.idea/
+
+# Local env
+.env
+.env.local
+.env.*.local
+
+# Claude Code worktrees
+.claude/worktrees/
