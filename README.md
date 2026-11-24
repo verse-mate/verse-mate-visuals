@@ -1,5 +1,11 @@
 # @versemate/visuals
 
+[VerseMate](https://versemate.org) is a Bible reading app: every chapter of all 66 books with its text, a summary and a verse-by-verse explanation, on the web, iOS and Android.
+
+- Website: https://versemate.org
+- Read the Bible: https://app.versemate.org
+- Example chapters: [Genesis 1](https://app.versemate.org/bible/genesis/1), [Psalm 23](https://app.versemate.org/bible/psalms/23), [John 3](https://app.versemate.org/bible/john/3), [Romans 12](https://app.versemate.org/bible/romans/12)
+
 Per-book visual aids for the VerseMate Bible reading apps — BibleProject _Read Scripture_ posters, BibleProject animated overview videos (chapter-aware), Precept Austin commentary charts (book- and chapter-scoped), Insight for Living's Swindoll structural charts, and VerseMate originals.
 
 Single source of truth, shared by **[verse-mate-web](https://github.com/verse-mate/verse-mate-web)** (Vite SPA) and **[verse-mate-mobile](https://github.com/verse-mate/verse-mate-mobile)** (Expo React Native).
